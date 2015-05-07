@@ -1,0 +1,27 @@
+{
+   "** THIS PARMFILE WAS GENERATED FROM ISNSURVY.json **":"",
+   "** https://github.com/argmonster/data-export-gcc":"",
+   "SCRIPT": "sql-export(ISNSURVY)",
+   "SQLDSNFILE": "/c0/DEV/SCRIPT/D/freetds/dw_write.ds",
+   "SQL_TABLE": "satisfaction_survey",
+   "SQL_TRUNCATE": "Y",
+   "SQL_CREATE" : "Y",
+   "ARCH_CLEAN": "Y",
+   "ID_COL_DEF": "IsnID",
+   "ADMIN": "tim@gulfcoastcenter.org",
+   "DST": [
+      "ISN.SURVEY.REC",
+      "ISN.SURVEY.COMP",
+      "ISN.SURVEY.COMP"
+   ],
+   "SQL_COL": [
+      "RecordId",
+      "SurveyCompletedCode",
+      "SurveyCompletedDesc"
+   ],
+   "DST_LKP": [
+      "null",
+      "null",
+      "9361"
+   ]
+}

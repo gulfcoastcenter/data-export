@@ -1,0 +1,14 @@
+{
+  "name": "data-export-gcc",
+  "version": "0.0.0",
+  "description": "Project for all the data exports of the gcc cmhc system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Markello",
+  "license": "ISC",
+  "devDependencies": {
+    "mis-util": "^0.3.2"
+  }
+}
