@@ -7,6 +7,7 @@
    "SQL_TRUNCATE": "Y",
    "SQL_CREATE" : "Y",
    "ARCH_CLEAN": "Y",
+   "DB": "9",
    "ID_COL_DEF": "IsnID",
    "ADMIN": "tim@gulfcoastcenter.org",
    "DST": [
